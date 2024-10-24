@@ -9,5 +9,4 @@ lunch twrp_o1s-eng
 make recoveryimage
 ```
 
-Kernel source:
-https://github.com/mohammad92/android_kernel_samsung_exynos2100
+[Kernel source](https://github.com/Keyaku/android_kernel_samsung_exynos2100)
