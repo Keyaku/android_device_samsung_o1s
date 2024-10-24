@@ -50,9 +50,9 @@ Thanks
 
 Sources
 -------------
-[Kernel tree](https://github.com/afaneh92/android_kernel_samsung_exynos2100)
+[Kernel tree](https://github.com/Keyaku/android_kernel_samsung_exynos2100)
 
-[Device tree](https://github.com/afaneh92/android_device_samsung_o1s)
+[Device tree](https://github.com/Keyaku/android_device_samsung_o1s)
 
 Changelog
 -------------
